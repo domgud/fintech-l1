@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">fintech-l1</string>
+    <string name="initialText">Hello world!</string>
+    <string name="newText">Hello from the other side</string>
+    <string name="btnChangeTextText">Button</string>
 </resources>
