@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
     // used for random color generation
     private final Random random = new Random();
-    //hello, this will be reverted.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
